@@ -28,8 +28,8 @@
 
 <!-- SideNav Initialization -->
      <ul class="side-nav bb-main-background" id="mobile-demo">
-        <li class="white center" style="border-bottom:1px dotted #1a70fe;"><?= $this->Html->image('assets_bb_connexion/business_connexion_logo_transparent.png',['style'=>'width:250px;']) ?></li>
-        <li><a href="#!" class="futura-text white-text sidenav-item-bb-connexion active"><?= h('Bienvenue sur le Portail') ?> </a></li>
+        <li class="" style="border-bottom:1px dotted #1a70fe;"><?= $this->Html->image('assets_bb_connexion/business_connexion_logo_transparent_white.png',['style'=>'width:250px;']) ?></li>
+        <li><a href="#!" class="futura-text white-text sidenav-item-bb-connexion bb-orange-background"><?= h('Bienvenue sur le Portail') ?> </a></li>
         <li><a href="#!" class="futura-text white-text sidenav-item-bb-connexion"><?= h('Gallerie') ?> </a></li>
         <li><a href="#!" class="futura-text white-text sidenav-item-bb-connexion"><?= h('Présenter sa Société') ?> </a></li>
         <li><a href="#!" class="futura-text white-text sidenav-item-bb-connexion"><?= h('Evennements') ?> </a></li>

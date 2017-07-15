@@ -3,7 +3,7 @@
             <div class="row">
               <div class="col l4 s12">
                 <h5 class="futura-text white-text" style="font-size:larger;"><?= h('Inscrivez-Vous Et accédez à un univers de possibilités !') ?></h5>
-                        <button class="btn futura-text white bb-main-color bb-white-button" id="trigger-subscriber" style="margin-top:20px; background:"><?= h('Je Participe') ?></button>
+                        <button class="btn futura-text white bb-orange-background" id="trigger-subscriber" style="margin-top:20px; background:"><?= h('Je Participe') ?></button>
               </div>
               <div class="col l3 offset-l1 s12">
                 <h5 class="white-text futura-text" style="font-size:larger;"><?= h('A propos de nous') ?></h5>

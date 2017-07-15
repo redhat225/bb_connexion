@@ -73,7 +73,7 @@
 				<?= h("Accédez dès à présent à un ensemble de contenu multimédia en rapport avec l'univers Business Connexion.") ?>
 			</div>
 			<p>
-				<a href="#!" class="btn futura-text white-text bb-main-background  bb-blue-button"><?= h("Accédez à la Gallerie") ?></a>
+				<a href="#!" class="btn futura-text white-text bb-orange-background"><?= h("Accédez à la Gallerie") ?></a>
 			</p>
 
 	</div>
@@ -285,7 +285,7 @@
 
 
   <div class="col s4 right-align">		
-  	<button class="btn trigger-subscriber-modal bb-white-button white" style="margin-right:20px;color:#e85d2c;" >Je Participe</button>
+  	<button class="btn trigger-subscriber-modal bb-orange-background white-text" style="margin-right:20px;color:#e85d2c;" >Je Participe</button>
 	<i class="ion-close-circled white-text small pointer-opaq trigger-close-bottom-modal" style="margin-right:10px;"></i>
   </div>
 
