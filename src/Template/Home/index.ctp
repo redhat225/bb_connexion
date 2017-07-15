@@ -3,7 +3,7 @@
 <!-- Main Slider -->
 <div class="row zero-margin zero-padding slider-multiple" id="main-slider-home">
     	<div class="col s12 zero-margin zero-padding">
-			<?= $this->Html->image('assets_bb_connexion/event2/slide_event_cfao.png',['style'=>'width:100%;']) ?>
+			<?= $this->Html->image('assets_bb_connexion/last_slide.png',['style'=>'width:100%;']) ?>
     	</div>
 </div>
 
@@ -21,7 +21,7 @@
 		</span>
 	</div>
 	<div class="container" style="margin-top:50px;">
-		<a href="#!" class="btn futura-text bb-main-background bb-blue-button">En Savoir Plus</a>
+		<a href="#!" class="btn futura-text bb-orange-background ">En Savoir Plus</a>
 	</div>
 		
 </div>
@@ -378,7 +378,7 @@
 
 
     <!-- Redirection Element -->
-  <p class="redirect-top pointer hidden tooltipped" data-tooltip="remonter" data-position="left" data-delay="3s">
+  <p class="redirect-top pointer hidden tooltipped bb-orange-background" data-tooltip="remonter" data-position="left" data-delay="3s">
     <a href="#main-wrapper-navbar" id="redirect-top-page-trigger"><i class="ion-android-navigate white-text small" style="position:relative; left:30%;"></i></a>
   </p>
 
