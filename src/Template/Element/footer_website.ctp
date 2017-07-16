@@ -29,7 +29,7 @@
           <div class="footer-copyright bb-orange-background">
             <div class="container">
                  <?= h('© 2017 PCA Consulting') ?>
-            <a class="grey-text text-lighten-4 right" href="#!">Made With <span class="red-text">♡</span> By RED</a>
+            <a class="grey-text text-lighten-4 right" href="#!">Made With <span class="white-text">♡</span> By RED</a>
             </div>
           </div>
 </footer>

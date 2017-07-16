@@ -387,11 +387,6 @@
 
 <?= $this->Html->script('red/website/Home/home',['block'=>true]) ?>
 <?= $this->Html->script('red/website/Home/event-subscriber',['block'=>true]) ?>
-<?php if($cookie_pub==='undone') :?>
-<script>
-	$('#modal-custom-stand').openModal();
-</script>
-<?php endif; ?>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
