@@ -26,7 +26,7 @@
             </div>
 
           </div>
-          <div class="footer-copyright" style="background:#1c4384 !important;">
+          <div class="footer-copyright bb-orange-background">
             <div class="container">
                  <?= h('© 2017 PCA Consulting') ?>
             <a class="grey-text text-lighten-4 right" href="#!"><?= h('Tous droits réservés') ?></a>
