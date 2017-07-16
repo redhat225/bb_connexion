@@ -268,29 +268,6 @@
     </div>
   </div>
 
-  <!-- Custom Stand Modal Box -->
-    <div id="modal-custom-stand" class="modal" style="width:33%;">
-	    <div class="modal-content zero-padding" style="background: rgb(24, 142, 223);">
-					<?= $this->Html->image('assets_bb_connexion/event2/booking_stand_cfao_event.png',['style'=>'width:100%;']) ?>
-	    </div>
-  </div>
-
-
-<div class="col s12 zero-padding bottom-stand-content hidden bb-main-background" style="bottom: 0px;position: fixed;">
-  <div class="col s8">
-	<p style="padding:15px;font-size:1.1rem;" class="futura-text white-text zero-margin"><?= h('Participez gratuitement au meeting Business Connexion du Ven 24 Février à l\'Hotel Radison Blu - 19h') ?>
-
-	</p>
-  </div>
-
-
-  <div class="col s4 right-align">		
-  	<button class="btn trigger-subscriber-modal bb-orange-background white-text" style="margin-right:20px;color:#e85d2c;" >Je Participe</button>
-	<i class="ion-close-circled white-text small pointer-opaq trigger-close-bottom-modal" style="margin-right:10px;"></i>
-  </div>
-
-</div>
-
 
   <!-- Modal Sign In Structure -->
   <div id="modal1" class="modal modal-fixed-footer bb-main-background" style="width:300px;">
